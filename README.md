@@ -20,4 +20,4 @@ git clone https://github.com/mrbx001/MRBX-3
 
 cd MRBX-3
 
-puthon MRBX-3.py
+python MRBX-3.py
